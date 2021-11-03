@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/folder-assets-size" mode="merge"/>
+    <filter root="/content/folder-assets-size" mode="merge"/>
+    <filter root="/content/dam/folder-assets-size/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/folder-assets-size" mode="merge"/>
+</workspaceFilter>
