@@ -3,4 +3,5 @@
     <filter root="/apps/folder-assets-size/clientlibs"/>
     <filter root="/apps/folder-assets-size/components"/>
     <filter root="/apps/folder-assets-size/i18n"/>
+    <filter root="/apps/dam/gui/content/commons/availablecolumns"/>
 </workspaceFilter>

@@ -36,6 +36,7 @@
                         <!-- /apps root -->
                         <filter><root>/apps</root></filter>
                         <filter><root>/apps/folder-assets-size</root></filter>
+                        <filter><root>/apps/dam/gui/content/commons</root></filter>
 
                         <!-- Common overlay roots -->
                         <filter><root>/apps/sling</root></filter>
